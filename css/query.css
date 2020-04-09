@@ -1,0 +1,63 @@
+@media only screen and (max-width: 767px) { 
+	header{
+	padding: 1.4em;
+}
+section {
+    padding: 40px 0;
+}
+.box {
+	margin: 0 auto;
+	width: 90%;
+    padding: 1%;
+}
+
+.logo {
+	
+	font-size: 190%;
+	margin-top: 0;
+	width: 5%;
+	height: 5%;
+
+}
+.main-nav li {
+	padding: 5px;
+    margin-left: 0px;
+}
+header figure {
+	width: 90%;
+    right: auto;
+	top: 56px;
+}
+header figure figcaption {
+	right: 0;
+	top: 28%;
+	position: absolute;
+}
+header .header-back{
+	box-shadow: none;
+
+}
+
+.hero-text {
+	margin: 0 auto;
+	width: 76%;
+	border: 0px solid black;
+}
+.center {
+	text-align: center;
+	margin-top: 22em;
+}
+.hero-text button{
+	margin: 0 auto;
+	font-size: 70%;
+	padding: 14px;
+	color: white;
+	background-color: #78a2d2;
+}
+
+.why-should h4:after {
+    margin-top: 30px;
+
+}
+
+}
