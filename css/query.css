@@ -7,7 +7,7 @@ section {
 }
 .box {
 	margin: 0 auto;
-	width: 90%;
+	width: 60%;
     padding: 1%;
 }
 
@@ -23,24 +23,27 @@ section {
 	padding: 5px;
     margin-left: 0px;
 }
+
 header figure {
-	width: 90%;
-    right: auto;
-	top: 56px;
+	width: 100%;
+    right: 0px;
+	top: 90px;
+	position: absolute;
 }
+
 header figure figcaption {
-	right: 0;
 	top: 28%;
 	position: absolute;
 }
+
 header .header-back{
 	box-shadow: none;
 
 }
 
 .hero-text {
-	margin: 0 auto;
-	width: 76%;
+	margin: 60px auto;
+	width: 100%;
 	border: 0px solid black;
 }
 .center {
@@ -59,5 +62,33 @@ header .header-back{
     margin-top: 30px;
 
 }
+.box-centered {
+	margin: 0 auto;
+	width: 85%;
+    padding: 1%;
+}
+.levels .row {
+	padding: 0;
+	border: 0px solid black;
+	width: 85%;
+}
+.levels .box {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+
+	
+}
+.levels .box p {
+	font-size: 90%;	
+}
+h4 {
+
+	font-size: 100%;
+	margin-bottom: 30px;
+
+}
+
+
 
 }
