@@ -27,7 +27,6 @@ section {
 header figure {
 	width: 100%;
     right: 0px;
-	top: 90px;
 	position: absolute;
 }
 
@@ -42,7 +41,7 @@ header .header-back{
 }
 
 .hero-text {
-	margin: 60px auto;
+	
 	width: 100%;
 	border: 0px solid black;
 }
@@ -70,7 +69,7 @@ header .header-back{
 .levels .row {
 	padding: 0;
 	border: 0px solid black;
-	width: 85%;
+	width: 80%;
 }
 .levels .box {
 	text-align: center;
